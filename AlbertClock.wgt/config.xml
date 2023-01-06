@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets" 
+		xmlns:ub="http://uniboard.mnemis.com/widgets"
+        id="http://obooklage.free.fr/AlbertClock" 
+        version="2.0"
+	width="640"
+	height="260"
+	ub:resizable="true"
+	ub:transparent="true"
+	ub:move="false"
+>
+		
+		<name>AlbertClock</name>
+		<author href=""
+	            email="">Olivier Booklage - Arnaud Durand GPL v3 Non commercial use</author>
+		<description>AlbertClock</description>
+		<preference name="skin"
+		            value="uniboard"/>
+		<content src="index.html"/> 
+</widget>
